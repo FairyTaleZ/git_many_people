@@ -8,3 +8,6 @@ num4 = 400
 
 num5 = 500
 
+def logout(username):
+    print(f"退出了{username}账号“)
+
