@@ -1,3 +1,10 @@
-money = 100
+money1 = 100
 
-money = 200
+money2 = 200
+
+def add_money(num1, num2):
+    return num1 + num2
+
+
+add_money(money1, money2)
+
