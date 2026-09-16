@@ -11,3 +11,10 @@ num5 = 500
 def logout(username):
     print(f"退出了{username}账号“)
 
+
+def login(username, password):
+    return username,password
+
+login('张三', '123')
+
+
