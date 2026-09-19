@@ -2,6 +2,8 @@ money1 = 100
 
 money2 = 200
 
+money3 = 300:
+
 def add_money(num1, num2):
     return num1 + num2
 
